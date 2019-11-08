@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+
+    <string-array name="States">
+        <item> Select one...</item>
+        <item>New</item>
+        <item>Active</item>
+        <item>Blocked</item>
+        <item>Banned</item>
+    </string-array>
+
+    <string-array name="StatesNoHint">
+        <item>New</item>
+        <item>Active</item>
+        <item>Blocked</item>
+        <item>Banned</item>
+    </string-array>
+</resources>
